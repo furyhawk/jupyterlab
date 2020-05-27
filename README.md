@@ -1,6 +1,8 @@
 "# jupyterlab" 
 
-docker-compose for jupyterlab image
+# docker-compose for jupyterlab image
+
+https://docs.docker.com/compose/gettingstarted/
 
 # /etc/systemd/system/docker-compose-app.service
 
